@@ -10,8 +10,8 @@
 - 🏦 Прошла интенсив по продуктовой аналитике Т-Банка: исследовала конверсию продукта Unidraw по типам устройств
 
 ## 🛠 Навыки
-- **SQL:** SELECT, WHERE, JOIN, GROUP BY / HAVING *(в активном освоении — оконные функции и CTE)*
-- **Python:** pandas, визуализация (matplotlib / seaborn) *(в освоении)*
+- **SQL:** SELECT, WHERE, JOIN, GROUP BY / HAVING/оконные функции/CTE
+- **Python:** pandas (merge, groupby, pivot_table), визуализация (matplotlib / seaborn)
 - **Статистика:** проверка гипотез, p-value, основы A/B-тестирования, регрессионный анализ
 - **Excel:** продвинутый уровень; **PowerPoint, Miro**
 - **Английский:** B2
